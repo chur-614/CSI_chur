@@ -13,8 +13,13 @@ program size: 5KB
 Algorithms are available for
 
 python
+
 gnuplot
+
 xlsx
+
 c
+
+Mathematica
 
 The simple codes make our method well-suited for a wide range of vector programming languages and computing hardware (GPUs, etc.)
